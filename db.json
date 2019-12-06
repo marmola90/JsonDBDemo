@@ -1,0 +1,88 @@
+  {
+    id: 1,
+    name: 'Luis Caceres',
+    username: 'lcaceres',
+    email: 'lcaceres@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Jefe de DIT'
+  },
+  {
+    id: 2,
+    name: 'Karen Agüero',
+    username: 'kaguero',
+    email: 'kaguero@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Administrador de Sistemas y Comunicaciones'
+  },
+  {
+    id: 3,
+    name: 'Donal Medina',
+    username: 'dmedinau',
+    email: 'dmedinau',
+    Cumple:'',
+    Puesto:'Administrador de Base de Datos'
+  },
+  {
+    id: 4,
+    name: 'Fabiola Diaz',
+    username: 'fdiaz',
+    email: 'fdiaz@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Administrador de Sistemas y Comunicaciones'
+  },
+  {
+    id: 5,
+    name: 'Victor Rodriguez',
+    username: 'vrodriguez',
+    email: 'vrodriguez@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Administrador de Sistemas y Comunicaciones'
+  },
+  {
+    id: 6,
+    name: 'Juan Carlos Ramos',
+    username: 'jramos',
+    email: 'jramos@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Administrador de Sistemas y Comunicaciones'
+  },
+  {
+    id: 7,
+    name: 'Cynthia Valenzuela',
+    username: 'cvalenzuela',
+    email: 'cvalenzuela@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Oficial de Soporte y Redes'
+  },
+  {
+    id: 8,
+    name: 'Aaron Mejia',
+    username: 'amejiag',
+    email: 'amejiag@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Diseñador Web'
+  },
+  {
+    id: 9,
+    name: 'Rosio Chávez',
+    username: 'rchavez',
+    email: 'rchavez@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Oficial de Soporte y Redes'
+  },
+  {
+    id: 10,
+    name: 'Carlos Alvarado',
+    username: 'calvarado',
+    email: 'calvarado@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Administrador de Sistemas y Comunicaciones'
+  },
+  {
+    id: 11,
+    name: 'Alejandro Mármol',
+    username: 'amarmol',
+    email: 'amarmol@cnbs.gob.hn',
+    Cumple:'',
+    Puesto:'Administrador de Base de Datos'
+  }
