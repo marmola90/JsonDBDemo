@@ -8,7 +8,7 @@
 },
 {
   id: 2,
-  name: 'Karen Agüero',
+  name: 'Karen Aguero',
   username: 'kaguero',
   email: 'kaguero@cnbs.gob.hn',
   Cumple:'',
@@ -64,7 +64,7 @@
 },
 {
   id: 9,
-  name: 'Rosio Chávez',
+  name: 'Rosio Chavez',
   username: 'rchavez',
   email: 'rchavez@cnbs.gob.hn',
   Cumple:'',
@@ -80,7 +80,7 @@
 },
 {
   id: 11,
-  name: 'Alejandro Mármol',
+  name: 'Alejandro Marmol',
   username: 'amarmol',
   email: 'amarmol@cnbs.gob.hn',
   Cumple:'',
