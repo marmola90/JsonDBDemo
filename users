@@ -12,7 +12,7 @@
     "name": "Karen Aguero",
     "username": "kaguero",
     "email": "kaguero@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"19 de Octubre",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Donal Medina",
     "username": "dmedinau",
     "email": "dmedinau@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"18 de Abril",
     "Puesto":"Administrador de Base de Datos"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Scarlett Alvarado",
     "username": "fdiaz",
     "email": "salvarado@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"6 de Agosto",
     "Puesto":"Diseñador Web"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Victor Rodriguez",
     "username": "vrodriguez",
     "email": "vrodriguez@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"14 de Agosto",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
@@ -44,15 +44,15 @@
     "name": "Juan Carlos Ramos",
     "username": "jramos",
     "email": "jramos@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"3 de Marzo",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
     "id": 7,
-    "name": "Cynthia Valenzuela",
+    "name": "Cinthia Valenzuela",
     "username": "cvalenzuela",
     "email": "cvalenzuela@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"16 de Septiembre",
     "Puesto":"Oficial de Soporte y Redes"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Aaron Mejia",
     "username": "amejiag",
     "email": "amejiag@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"23 de Junio",
     "Puesto":"Diseñador Web"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Carlos Alvarado",
     "username": "calvarado",
     "email": "calvarado@cnbs.gob.hn",
-    "Cumpleaños":"",
+    "Cumpleaños":"1 de Julio",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
@@ -86,5 +86,30 @@
     "email": "amarmol@cnbs.gob.hn",
     "Cumpleaños":"18 de Agosto",
     "Puesto":"Administrador de Base de Datos"
+  },
+  {
+    "id": 12,
+    "name": "Mauricio Hernández",
+    "username": "mhernandez",
+    "email": "mhernandez@cnbs.gob.hn",
+    "Cumpleaños":"24 de Abril",
+    "Puesto":"Gerente de TI"
+  },
+  {
+    "id": 13,
+    "name": "Sandra Vanessa Dubon",
+    "username": "sdubon",
+    "email": "sdubon@cnbs.gob.hn",
+    "Cumpleaños":"24 de Septiembre",
+    "Puesto":"Auxiliar Administrativo"
+  },
+  {
+    "id": 14,
+    "name": "Zamir Jorge Gerardo Hiza",
+    "username": "zhiza",
+    "email": "zhiza@cnbs.gob.hn",
+    "Cumpleaños":"18 de Agosto",
+    "Puesto":"Oficial de Soporte y Redes"
   }
+  
 ]
