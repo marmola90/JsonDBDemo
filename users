@@ -4,7 +4,7 @@
     "name": "Luis Caceres",
     "username": "lcaceres",
     "email": "lcaceres@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Jefe de DIT"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Karen Aguero",
     "username": "kaguero",
     "email": "kaguero@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
@@ -20,23 +20,23 @@
     "name": "Donal Medina",
     "username": "dmedinau",
     "email": "dmedinau@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Administrador de Base de Datos"
   },
   {
     "id": 4,
-    "name": "Fabiola Diaz",
+    "name": "Scarlett Alvarado",
     "username": "fdiaz",
-    "email": "fdiaz@cnbs.gob.hn",
-    "Cumple":"",
-    "Puesto":"Administrador de Sistemas y Comunicaciones"
+    "email": "salvarado@cnbs.gob.hn",
+    "Cumpleaños":"",
+    "Puesto":"Diseñador Web"
   },
   {
     "id": 5,
     "name": "Victor Rodriguez",
     "username": "vrodriguez",
     "email": "vrodriguez@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Juan Carlos Ramos",
     "username": "jramos",
     "email": "jramos@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Cynthia Valenzuela",
     "username": "cvalenzuela",
     "email": "cvalenzuela@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Oficial de Soporte y Redes"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Aaron Mejia",
     "username": "amejiag",
     "email": "amejiag@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Diseñador Web"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Rosio Chavez",
     "username": "rchavez",
     "email": "rchavez@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Oficial de Soporte y Redes"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Carlos Alvarado",
     "username": "calvarado",
     "email": "calvarado@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"",
     "Puesto":"Administrador de Sistemas y Comunicaciones"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Alejandro Marmol",
     "username": "amarmol",
     "email": "amarmol@cnbs.gob.hn",
-    "Cumple":"",
+    "Cumpleaños":"18 de Agosto",
     "Puesto":"Administrador de Base de Datos"
   }
 ]
